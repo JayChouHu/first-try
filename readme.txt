@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-这是master中的readme
-=======
-这是在dev中修改的readme
->>>>>>> dev
+dev第二次创建readme
